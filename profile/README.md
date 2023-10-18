@@ -7,7 +7,7 @@ Let's speak out for everybody out there who gets opressed. Otherwise it will be 
 Sadly nothing in the world is free... non the less we try to make everything free for you, so we're glad for every single [Donation](bitcoin:BC1QKE75ELVW5ZHG74GGP370A3SHALLR0LWPTUTY6J?label=Donations) we can get. 
 
 <p align="center">
-  <img src="./theCommunistInternetFederation.svg" width="350" title="Logo">
+  <img src="https://github.com/The-Communist-Internet-Federation/.github/blob/main/profile/theCommunistInternetFederation.svg" width="350" title="Logo">
 </p>
 
 🇵🇸Free Palestine🇵🇸
