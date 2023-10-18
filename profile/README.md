@@ -9,3 +9,6 @@ Sadly nothing in the world is free... non the less we try to make everything fre
 <p align="center">
   <img src="./theCommunistInternetFederation.svg" width="350" title="Logo">
 </p>
+
+🇵🇸Free Palestine🇵🇸
+🇺🇦Slava Ukraini🇺🇦
