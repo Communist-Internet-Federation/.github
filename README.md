@@ -1,6 +1,6 @@
 # ☭ The Communist Internet Federation ☭
 
-Our objective is to make the Internet a decentralized and surveilance free place for everyone out there. 
+Our objective is to make the Internet a decentralized and survailance free place for everyone out there. 
 
 Let's speak out for everybody out there who gets opressed. Otherwise it will be you one day. 
 
@@ -9,3 +9,6 @@ Sadly nothing in the world is free... non the less we try to make everything fre
 <p align="center">
   <img src="./CiF.svg" width="350" title="Logo">
 </p>
+
+🇵🇸Free Palestine🇵🇸
+🇺🇦Slava Ukraini🇺🇦
