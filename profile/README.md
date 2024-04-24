@@ -11,5 +11,5 @@ Sadly nothing in the world is free... non the less we try to make everything fre
 </p>
 
 🇵🇸Free Palestine🇵🇸
-🇺🇦Slava Ukraini🇺🇦
+🇺🇦Слава Україні🇺🇦
 🇾🇪🇾🇪
